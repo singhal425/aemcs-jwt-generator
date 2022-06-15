@@ -71,7 +71,7 @@ To utilise the same script for both purposes, JSON payload is updated with value
     }
 ```
 
-#Pre-requisite
+# Pre-requisite
 + Python 3
 + Make sure to have dependencies installed from `requirements.txt` file.
 
